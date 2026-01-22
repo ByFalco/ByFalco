@@ -9,17 +9,7 @@
 </div> -->
 
 <div align="center">
-  <div style="width: 800px; height: 200px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-    <video 
-      autoplay 
-      loop 
-      muted 
-      playsinline 
-      disablePictureInPicture 
-      style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;">
-      <source src="assets/video_welcome.mp4" type="video/mp4">
-    </video>
-  </div>
+  <video src="assets/video_welcome.mp4" width="400" autoplay loop muted playsinline></video>
 </div>
 
 <div align="left">
