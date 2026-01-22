@@ -1,5 +1,15 @@
 <div align="center">
-  <img src="assets/gif/welcome_hello_multi_lang.gif" alt="Welcome GIF" width="800" style="display: block; margin: auto;">
+  <video 
+    src="assets/gif/welcome_hello_multi_lang.gif" 
+    width="800"
+    height="300" 
+    autoplay 
+    loop 
+    muted 
+    playsinline 
+    poster="assets/gif/welcome_hello_multi_lang.gif"
+    style="pointer-events: none;">
+  </video>
 </div>
 
 <div align="left">
