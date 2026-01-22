@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Notch&weight=700&size=120&letterSpacing=&duration=4200&pause=1200&color=EFF6FF&center=true&vCenter=true&width=800&height=400&lines=hello;ciao;hola;salut" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Notch&weight=700&size=120&letterSpacing=&duration=4200&pause=1200&color=EFF6FF&center=true&vCenter=true&width=800&height=200&lines=hello;ciao;hola;salut" />
 </p>
 
 <div align="center">
@@ -18,20 +18,13 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=E32E13" alt="Rust" />
-    <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=3776AB" alt="Python" />
-    <img src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=00599C" alt="C" />
-    <img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=rust,py,c,react,html,css,js" alt="Languages and Frameworks" />
   </p>
 
   <h3>OS / Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=0078D6" alt="Windows" />
-    <img src="https://img.shields.io/badge/Ubuntu-black?style=flat&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu" alt="OS and Platforms" />
   </p>
 </div>
 
