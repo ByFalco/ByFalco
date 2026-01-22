@@ -1,16 +1,10 @@
-<!-- <div align="center">
+<div align="center">
   <img 
-    src="assets/gif/welcome_hello_multi_lang.gif" 
+    src="assets/welcome.gif" 
     alt="Welcome GIF" 
     width="800"
-    height="400"
-    style="pointer-events: none; -webkit-user-drag: none;"
   />
-</div> -->
-
-<p align="center">
-  <img src="assets/gif/welcome.gif" width="400">
-</p>
+</div>
 
 <div align="left">
   <h2>
