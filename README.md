@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/gif/welcome_hello_multi_lang.gif" alt="Welcome GIF" width="400">
+  <img src="assets/gif/welcome_hello_multi_lang.gif" alt="Welcome GIF" width="800" style="display: block; margin: auto;">
 </div>
 
 <div align="left">
@@ -11,16 +11,12 @@
 
 Systems & Web Development. From low-level performance to scalable web architectures.
 
-<hr style="border: none; border-top: 1px solid #eaecef;" />
-
 <div align="left">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
     Tech Stack
   </h2>
 </div>
-
-<hr style="border: none; border-top: 1px solid #eaecef;" />
 
 My technological arsenal includes:
 
