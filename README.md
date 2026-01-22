@@ -1,10 +1,10 @@
-<div align="center">
+<p align="center">
   <img 
     src="assets/welcome.gif" 
     alt="Welcome GIF" 
     width="800"
   />
-</div>
+</p>
 
 <div align="left">
   <h2>
