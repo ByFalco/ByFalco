@@ -2,7 +2,6 @@
   <video 
     src="assets/gif/welcome_hello_multi_lang.gif" 
     width="800"
-    height="300" 
     autoplay 
     loop 
     muted 
