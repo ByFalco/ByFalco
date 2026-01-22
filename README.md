@@ -1,11 +1,25 @@
-<div align="center">
+<!-- <div align="center">
   <img 
     src="assets/gif/welcome_hello_multi_lang.gif" 
     alt="Welcome GIF" 
     width="800"
-    height="300"
+    height="400"
     style="pointer-events: none; -webkit-user-drag: none;"
   />
+</div> -->
+
+<div align="center">
+  <div style="width: 800px; height: 200px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+    <video 
+      autoplay 
+      loop 
+      muted 
+      playsinline 
+      disablePictureInPicture 
+      style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;">
+      <source src="assets/gif/welcome_hello_multi_lang.mp4" type="video/mp4">
+    </video>
+  </div>
 </div>
 
 <div align="left">
@@ -23,8 +37,6 @@ Systems & Web Development. From low-level performance to scalable web architectu
     Tech Stack
   </h2>
 </div>
-
-My technological arsenal includes:
 
 - **System Languages:** ![Rust](https://img.shields.io/badge/rust-%23E32E13.svg?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 - **Scripting & Logic:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
