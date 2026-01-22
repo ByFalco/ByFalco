@@ -8,9 +8,9 @@
   />
 </div> -->
 
-<div align="center">
-  <video src="assets/video_welcome.mp4" width="400" autoplay loop muted playsinline></video>
-</div>
+<p align="center">
+  <img src="assets/gif/welcome_hello.gif" width="400">
+</p>
 
 <div align="left">
   <h2>
