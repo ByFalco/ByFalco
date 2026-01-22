@@ -1,7 +1,5 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/demo/?font=Stack+Sans+Notch&weight=700&size=80&letterSpacing=&duration=4200&pause=1200&color=EFF6FF&center=true&vCenter=true&width=600&height=200&lines=hello;ciao;hola;salut"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Notch&weight=700&size=80&duration=4200&pause=1200&color=EFF6FF&center=true&vCenter=true&width=600&height=200&lines=hello;ciao;hola;salut" />
 </p>
 
 <p align="center">
