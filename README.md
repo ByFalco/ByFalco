@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <h3>Languages</h3>
+  <h3>Languages & Frameworks</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=rust,py,c,react,html,css,js" alt="Languages and Frameworks" />
   </p>
